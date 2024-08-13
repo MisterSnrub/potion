@@ -1,0 +1,2 @@
+# potion
+I'm reading LEARNING VIMSCRIPT THE HARD WAY.
